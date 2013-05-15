@@ -1,8 +1,8 @@
 This document was manually transcribed to markdown by Plato on 2013-05-15.  
 The source document is a photocopy of a warrant, sourced from:  
-http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-514-13.pdf
-The current version of this transcription may be found at:
-https://github.com/therealplato/dhs-mtgox-warrant
+http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-514-13.pdf  
+The current version of this transcription may be found at:  
+https://github.com/therealplato/dhs-mtgox-warrant  
 Pull requests for typo corrections are welcome.
 
 ---
@@ -45,11 +45,6 @@ Issued May 14, 2013, at Baltimore, Maryland, by
 <signature>  
 Honorable Susan K. Gauvey  
 United States Magistrate Judge
-
----
-
-# UNITED STATES DISTRICT COURT
-## DISTRICT OF MARYLAND
 
 **APPLICATION AND AFFIDAVIT FOR SEIZURE WARRANT**  
 CASE NUMBER: 13-1162 SKG
