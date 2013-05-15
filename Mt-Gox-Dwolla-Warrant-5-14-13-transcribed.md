@@ -1,13 +1,18 @@
-This document was manually transcribed to markdown by Plato on 2013-05-15.  
+This document was manually transcribed to markdown by Plato on 2013-05-15.
+
 The source document is a photocopy of a warrant, sourced from:  
-http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-514-13.pdf  
+http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-514-13.pdf
+
 The current version of this transcription may be found at:  
 https://github.com/therealplato/dhs-mtgox-warrant  
 Pull requests for typo corrections are welcome.
 
+If you found this useful and want to send me a tip, my BTC address is  
+**13aPnmEpEgyfdoLe7skEPy7KZXGCgWVA83**
+
 ---
 
-# UNITED STATES DISTRICT COURT
+## UNITED STATES DISTRICT COURT
 ## DISTRICT OF MARYLAND
 
 **SEIZURE WARRANT**  
