@@ -1,7 +1,7 @@
 This document was manually transcribed to markdown by Plato on 2013-05-15.
 
 The source document is a photocopy of a warrant, sourced from:  
-http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-514-13.pdf
+  http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-5-14-13.pdf
 
 The current version of this transcription may be found at:  
 https://github.com/therealplato/dhs-mtgox-warrant  
@@ -26,8 +26,8 @@ In the Matter of the Seizure of
 TO: Michael T. McFarland, Special Agent, United States Homeland Security
 Investigations (HSI), and any Authorized Officer of the United States:
 
-An Affidavit having been made before my by Michael T. McFarland, Special Agent,
-United STates Homeland Security Investigations (HSI), who has reason to believe
+An Affidavit having been made before me by Michael T. McFarland, Special Agent,
+United States Homeland Security Investigations (HSI), who has reason to believe
 that in Des Moines, Iowa, and elsewhere there is now certain property which is
 subject to seizure and forfeiture to the United States, namely *(describe the
 property to be seized)*
@@ -39,12 +39,13 @@ I am satisfied that the affidavit establishes probable cause to believe that the
 property so described is subject to seizure and forfeiture and that grounds
 exist for the issuance of this seizure warrant.
 
-YOU ARE HEREBY AUTHORIZED to seize with fourteen (14) days, the property
+YOU ARE HEREBY AUTHORIZED to seize within fourteen (14) days, the property
 specified, serving this warrant and making the seizure in the daytime - 6:00 AM
-to 10:00 PM - leaving a copy of this warrant and receipt for the property as
-required by law. Service of this seizure warrant may be made by facsimile,
-provided that a hard copy is thereafter served by regular mail, overnight mail,
-or personal delivery.
+to 10:00 PM - leaving a copy of this warrant and receipt for the property
+seized, and prepare a written inventory of the property seized and promptly
+return this warrant to any U.S. Magistrate Judge, as required by law. Service of
+this seizure warrant may be made by facsimile, provided that a hard copy is
+thereafter served by regular mail, overnight mail, or personal delivery.
 
 Issued May 14, 2013, at Baltimore, Maryland, by  
 <signature>  
@@ -164,7 +165,7 @@ operates out of Tokyo, Japan. Mt. Gox has a subsidiary company known as "Mutum
 Sigillum LLC." According to bank records, Mutum Sigillum LLC holds an account at
 Wells Fargo Bank, N.A. The account is held in the business name Mutum Sigillum
 LLC, which is incorporated in the state of Delaware. According to Wells Fargo
-Bank records, the account was established on May 20, 2011, with the accoutn
+Bank records, the account was established on May 20, 2011, with the account
 number 7657841313 and with a single authorized signer; Mark Karpeles. According
 to open source information, Karpeles is the owner of Mt. Gox. According to the
 bank records, Karpeles is also the owner of Mutum Sigillum LLC.
