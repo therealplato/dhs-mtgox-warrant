@@ -1,7 +1,7 @@
 This document was manually transcribed to markdown by Plato on 2013-05-15.
 
 The source document is a photocopy of a warrant, sourced from:  
-  http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-5-14-13.pdf
+http://cdn.arstechnica.net/wp-content/uploads/2013/05/Mt-Gox-Dwolla-Warrant-5-14-13.pdf
 
 The current version of this transcription may be found at:  
 https://github.com/therealplato/dhs-mtgox-warrant  
@@ -101,7 +101,7 @@ United States Magistrate Judge
 This Affidavit is submitted in support of an application for a seizure warrant
 for the contents of **Dwolla Account 812-649-1010 registered in the name of
 Mutum  Sigillum LLC, held in the custody of Veridian Credit Union.** I submit
-that ther eis probable cause to believe that the contents of Dwolla account
+that there is probable cause to believe that the contents of Dwolla account
 812-649-1010 in the name of Mutum Sigillum LLC were involved in transactions and
 attempted transactions in violation of 18 U.S.C. section 1960, and that the
 contents of that account are subject to seizure and forfeiture pursuant to 18
@@ -119,7 +119,7 @@ evaluated evidence obtained during the course of these investigations.
 
 #### 18 U.S.C. section 1960
 
-    (a) Whoever knowingly conducts, controls manages, supervises, directs, or
+    (a) Whoever knowingly conducts, controls, manages, supervises, directs, or
     owns all or part of an unlicensed money treansmitting business, shall be
     fined in accorance with this title or imprisoned not more than 5 years, or
     both.
@@ -173,7 +173,7 @@ bank records, Karpeles is also the owner of Mutum Sigillum LLC.
 As part of the account opening process, Wells Fargo required Karpeles and Mutum
 Sigillum LLC to complete a "Money Services Business (MSB) Accounts,
 Identification of an MSB Customer" form. That document was completed on May 20,
-2011, and identified Mutum Sigillum LLC as a busines snot engaged in money
+2011, and identified Mutum Sigillum LLC as a business not engaged in money
 services. The application asks several questions; to include, "Do you deal in or
 exchange currency for your customer?" and "Does your business accept funds from
 customers and send the funds based on customers' instructions (Money
@@ -238,10 +238,8 @@ Dwolla records indicate that the destination for the funds wired from the Wells
 Fargo account was **Dwolla account 812-649-1010 registered in the name of Mutum
 Sigillum LLC, held in the custody of Veridian Credit Union.** Dwolla records
 also indicate that the Wells Fargo account was the sole financial institution
-account that was funding the Dwolla account 812-649-1010. Therefore, it is
-evident that the Dwolla account was the sole financial institution account that
-was funding the Dwolla account 812-649-1010. Therefore, it is evident that the
-Dwolla account was used exclusively to move funds between Mt. Gox and Mutum
+that was funding the Dwolla account 812-649-1010. Therefore, it is evident that
+the Dwolla account was used exclusively to move funds between Mt. Gox and Mutum
 Sigillum and their customers. Consequently, there is probable cause to believe
 that Mt. Gox and Mutum Sigillum are using **Dwolla account 812-649-1010
 registered in the name of Mutum Sigillum LLC, held in the custody of Veridian
@@ -256,7 +254,7 @@ Section 1355(b) of title 28, and may be executed in any district in which the
 property is found...." According to 28 U.S.C. section 1355(b)(1)(A), a
 forfeiture action may be brought in "the district court for the district in
 which any of the acts or omissions giving rise to the forfeiture occurred...."
-Because the affidavit demopnstrates that transactions through the Dwolla and
+Because the affidavit demonstrates that transactions through the Dwolla and
 Mutum Sigillum accounts were initiated and caused by a customer in the District
 of Maryland, the forfeiture action can be brought in the District of Maryland,
 and the seizure warrant may be issued in the District of Maryland.
